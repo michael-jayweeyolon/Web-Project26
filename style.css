@@ -1,9 +1,9 @@
 background {
-  background-image: url(art-club-background.jpg');
+  background-image: url(art-club-background.jpg') !important;
 }
 
 h1 {
-  color: #FFF !important;
+  color: black !important;
   font-size: 2em;
   padding-top: 100px;
   width: 100%;
