@@ -28,7 +28,7 @@ h1 {
 
 #picture {
 
-  text-align: top;
+  text-align: top !important;
 }
 
 .sample {
