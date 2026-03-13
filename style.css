@@ -60,7 +60,7 @@ h3{
 }
 
 .google {
- font-family: Helvetica;
+ font-family: Georgia;
   color: rgba(255, 255, 255, 0.5);
   float: left;
   font-size: 14px;
@@ -70,11 +70,14 @@ h3{
 
 .sign {
   \
-  font-family: Helvetica;
+  font-family: Georgia;
   color: black;
   float: left;
   font-size: 14px;
   padding-left: 10px;
   text-transform: uppercase;}
 
-
+#credit {
+  font-family: Georgia;
+  color: black !important;
+}
