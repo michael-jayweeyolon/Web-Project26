@@ -79,7 +79,6 @@ h3{
 }
 
 .sign {
-  \
   font-family: Georgia;
   color: black;
   float: left;
@@ -90,7 +89,7 @@ h3{
 #credit {
   font-family: Georgia;
   color: black !important;
-  text-algin: bottom;
+  text-algin: bottom !important;
 }
 
 #cheese {
