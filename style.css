@@ -1,9 +1,5 @@
 background {
-  background-image: url('https://i.pinimg.com/736x/43/c9/65/43c9653e3a717d4a80a0551ebec6c978.jpg') !important;
-  background-size: cover;
-  background-postion: center;
-  background-repeat: no-repeat;
-  height: 100vh;
+ 
   
 }
 
@@ -12,106 +8,50 @@ background {
 }
 
 h1 {
-  color: black !important;
-  font-size: 1em;
-  padding-top: 100px;
-  width: 100%;
-  font-family: Georgia;
-  text-align: center;
+  
 }
 
 .content {
- color: black !important;
-  line-height: 1.3em;
-  text-align: left;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 18px;
-  font-weight: bold;
+ 
 }
 
 #picture {
 
-  text-align: top !important;
-  color: black !important;
-  font-size: 1em;
-  padding-top: 100px;
-  width: 100%;
-  font-family: Georgia;
-  text-align: center;
+  
 }
 
 .sample {
-  display: flex;
-  background-image: url('Screenshot_20250711_020314_ibisPaint X.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 300px;
 }
 
 h2 {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  color: black !important;
-  font-weight: 100;
-  font-size: 5px;
-  line-height: 24px;
-  padding-bottom: 30px;
-  text-align: left;
-  width: 70%;
-  font-family: Georgia;
+ 
 }
 
 h3{
-   color: black !important;
-  font-size: 2px;
-  padding-top: 100px;
-  width: 100%;
-  font-family: Georgia;
-  text-align: center;
+   
 }
 
 .google {
- font-family: Georgia;
-  color: rgba(255, 255, 255, 0.5);
-  float: left;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;
+ 
 }
 
 .sign {
-  font-family: Georgia;
-  color: black;
-  float: left;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;}
+  
+}
 
 #credit {
-  color: black !important;
-  font-size: 2em;
-  padding-top: 100px;
-  width: 100%;
-  font-family: Georgia;
-  text-align: center;
+  
 }
 
 #cheese {
- color: black !important;
-  font-size: 2em;
-  padding-top: 100px;
-  width: 100%;
-  font-family: Georgia;
-  text-align: center;
 }
 
 #sci {
-  text-alaign: center !important;
   
 }
 
 #art {
-  padding-top: 10px !important:
+ 
 
   
 }
